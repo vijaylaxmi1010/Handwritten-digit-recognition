@@ -1,6 +1,6 @@
 # MNIST Handwritten Digit Recognition with PyTorch
 
-This project demonstrates a convolutional neural network (CNN) implemented in PyTorch to classify handwritten digits from the MNIST dataset. The model achieves an impressive test accuracy of **99.01%** after 5 epochs of training.
+This project demonstrates a convolutional neural network (CNN) implemented in PyTorch to classify handwritten digits from the MNIST dataset. The model achieves an test accuracy of **99.01%** after 5 epochs of training.
 
 ---
 
